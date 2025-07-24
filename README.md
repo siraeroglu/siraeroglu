@@ -25,6 +25,6 @@
 ---
 
 ## Connect
-- [LinkedIn](www.linkedin.com/in/şira-eroğlu-108599286)
+- [LinkedIn](https://www.linkedin.com/in/şira-eroğlu-108599286/)
 - [Email](mailto:siraeroglu@gmail.com)
 
